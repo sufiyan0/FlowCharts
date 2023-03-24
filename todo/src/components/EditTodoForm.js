@@ -1,9 +1,9 @@
 import React from 'react'
 
-const EditTodoForm = () => {
+export const EditTodoForm = () => {
   return (
     <div>
-      
+      {/* EditTodoForm */}
     </div>
   )
 }
